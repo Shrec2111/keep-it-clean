@@ -1,7 +1,7 @@
 {
-  "name": "code-preetier",
+  "name": "code-prettier",
   "version": "1.0.0",
-  "description": "This helps to beautify the code",
+  "description": "This helps to analyse the code and give a description on linting and help proper formatting the code.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,9 @@
   "keywords": [
     "beautify",
     "cleanCode",
-    "preety"
+    "preety",
+    "linting",
+    "formatting"
   ],
   "author": "shrec2111",
   "license": "MIT",
