@@ -1,0 +1,24 @@
+{
+  "name": "code-preetier",
+  "version": "1.0.0",
+  "description": "This helps to beautify the code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "beautify",
+    "cleanCode",
+    "preety"
+  ],
+  "author": "shrec2111",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/eslint-parser": "^7.23.10",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "prettier": "^3.2.5"
+  }
+}

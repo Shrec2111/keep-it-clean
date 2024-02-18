@@ -1,0 +1,11 @@
+code-preetier/
+  |- src/
+  |   |- index.js          # Entry point of the package
+  |   |- lint.js           # Code linting functionality
+  |   |- staticAnalysis.js # Static analysis functionality
+  |   |- format.js         # Code formatting functionality
+  |
+  |- .eslintrc.js          # ESLint configuration file
+  |- .prettierrc.json      # Prettier configuration file
+  |- package.json          # Package metadata and dependencies
+  |- README.md             # Package documentation
