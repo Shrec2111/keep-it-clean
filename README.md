@@ -1,5 +1,5 @@
 # keep-it-clean
-code-preeetier is a Node.js package designed to analyze code quality, perform linting, static analysis, and code formatting.
+code-prettier is a Node.js package designed to analyze code quality, perform linting, static analysis, and code formatting.
 
 ## Features
 
@@ -12,5 +12,5 @@ code-preeetier is a Node.js package designed to analyze code quality, perform li
 To use Code Quality Checker in your Node.js project, you can install it via npm:
 
 ```bash
-npm install code-quality-checker
+npm install code-prettier
 
