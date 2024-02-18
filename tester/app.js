@@ -2,7 +2,7 @@
 //you can replace the code from testFile1/2.js to check the results.
 
 const fs = require('fs');
-const codeQualityChecker = require('code-preetier');
+const codeQualityChecker = require('code-prettier');
 
 // File to test
 const filePath = './file1.js'; // this is a dummy file which contains unformatted data.
