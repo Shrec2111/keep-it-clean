@@ -9,7 +9,7 @@ code-prettier is a Node.js package designed to analyze code quality, perform lin
 
 ## Installation
 
-To use Code Quality Checker in your Node.js project, you can install it via npm:
+To use Code-Prettier in your Node.js project, you can install it via npm:
 
 ```bash
 npm install code-prettier
